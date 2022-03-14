@@ -13,5 +13,14 @@ So far:
 - I tested the endpoint using the <code>Postman</code> application.
 
 To do:
-
+- add users;
+- define user roles;
+- add authentication and authorization;
+- add search function;
+- add reservation;
+- add lend/return functionality;
+- add tests;
+- add simple frontend;
+- dockerize application;
+- mount the application in a public cloud. 
 
